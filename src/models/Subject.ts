@@ -1,3 +1,7 @@
+//Enums
+import { STATUS } from "../interfaces/ISubject";
+
+
 export default class Subject {
 	abreviation: string;
 	credits: number;
@@ -6,7 +10,7 @@ export default class Subject {
 	learningUnitAreaName: string;
 	semester: number;
 	spaces: number;
-	status: number;
+	status: STATUS;
 
 	ordinaryHours: number | null;
 	laboratoryHours: number | null;

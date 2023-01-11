@@ -1,5 +1,13 @@
 import Subject from "../models/Subject";
 
+
+export enum STATUS {
+	PENDING,
+	ONGOING,
+	DONE
+}
+
+
 export default interface ISubject {
 	abreviation: string;
 	credits: number;
@@ -8,7 +16,7 @@ export default interface ISubject {
 	learningUnitAreaName: string;
 	semester: number;
 	spaces: number;
-	status: number;
+	status: STATUS;
 
 	ordinaryHours: number | null;
 	laboratoryHours: number | null;

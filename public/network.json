@@ -1,0 +1,1090 @@
+[
+	{
+		"name": "Física I y Laboratorio",
+		"hours": {
+			"ordinary": 3,
+			"laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+			"name": "Formación Básica Profesional",
+			"abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 1,
+		"row": 1
+	},
+	{
+		"name": "Álgebra para Ingeniería",
+		"hours": {
+			"ordinary": 3,
+			"laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+			"name": "Formación Básica Profesional",
+			"abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 1,
+		"row": 2
+	},
+	{
+		"name": "Matemáticas I",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 1,
+		"row": 3
+	},
+	{
+		"name": "Dibujo para Ingeniería",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 1,
+		"row": 4
+	},
+	{
+		"name": "Química General y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 1,
+		"row": 5
+	},
+	{
+		"name": "Aplicaciones de las Tecnologías de Información",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 1,
+		"row": 6
+	},
+	{
+		"name": "Competencia Comunicativa",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 1,
+		"row": 7
+	},
+	{
+		"name": "Física II y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 1
+	},
+	{
+		"name": "Programación Estructurada",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 2
+	},
+	{
+		"name": "Matemáticas II",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 3
+	},
+	{
+		"name": "Taller de Programación",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": 3
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 4
+	},
+	{
+		"name": "Algoritmos Computacionales",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 5
+	},
+	{
+		"name": "Laboratorio de Algoritmos Computacionales",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": 2
+		},
+		"credits": 1,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 6
+	},
+	{
+		"name": "Cultura de Calidad",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 7
+	},
+	{
+		"name": "Apreciación a las Artes",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 2,
+		"row": 8
+	},
+	{
+		"name": "Programación Web y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 1
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 3,
+		"row": 1
+	},
+	{
+		"name": "Matemáticas Discretas",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 3,
+		"row": 2
+	},
+	{
+		"name": "Matemáticas III",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 3,
+		"row": 3
+	},
+	{
+		"name": "Lenguajes de Programación y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 1
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 3,
+		"row": 4
+	},
+	{
+		"name": "Física III y Lab.",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 3,
+		"row": 5
+	},
+	{
+		"name": "Sistemas Digitales y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 1
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 3,
+		"row": 6
+	},
+	{
+		"name": "Antropología social",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 3,
+		"row": 7
+	},
+	{
+		"name": "Arquitectura de Computadoras",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 1
+	},
+	{
+		"name": "Probabilidad y Estadística",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 2
+	},
+	{
+		"name": "Matemáticas IV",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 3
+	},
+	{
+		"name": "Programación Orientada a Objetos",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 4
+	},
+	{
+		"name": "Física IV y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 5
+	},
+	{
+		"name": "Taller de Programación Orientada a Objetos",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": 2
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 6
+	},
+	{
+		"name": "Transmisión y Comunicación de Datos",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 1
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 7
+	},
+	{
+		"name": "Cultura Inglesa",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 4,
+		"row": 8
+	},
+	{
+		"name": "Diseño de Experimentos",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 5,
+		"row": 1
+	},
+	{
+		"name": "Optimización",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 5,
+		"row": 2
+	},
+	{
+		"name": "Métodos Numéricos",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Básica Profesional",
+		  "abbreviation": "FBP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 5,
+		"row": 3
+	},
+	{
+		"name": "Sistemas Operativos",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 5,
+		"row": 4
+	},
+	{
+		"name": "Interacción Humano-Computadora y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 5,
+		"row": 5
+	},
+	{
+		"name": "Programación de Sistemas Adaptativos y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 5,
+		"row": 6
+	},
+	{
+		"name": "Ambiente y Sustentabilidad",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 5,
+		"row": 7
+	},
+	{
+		"name": "Administración de Proyectos de Software",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 6,
+		"row": 1
+	},
+	{
+		"name": "Temas Selectos de Optimización",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 6,
+		"row": 2
+	},
+	{
+		"name": "Modelado y Simulación de Sistemas Dinámicos",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 6,
+		"row": 3
+	},
+	{
+		"name": "Cómputo Integrado y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 6,
+		"row": 4
+	},
+	{
+		"name": "Ingeniería de Dispositivos Móviles y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 6,
+		"row": 5
+	},
+	{
+		"name": "Sistemas Distribuidos y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 6,
+		"row": 6
+	},
+	{
+		"name": "Contexto Social de la Profesión",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 6,
+		"row": 7
+	},
+	{
+		"name": "Circuitos Análogos y Digitales y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 2,
+		"semester": 7,
+		"row": 1
+	},
+	{
+		"name": "Redes Neuronales Artificiales",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 7,
+		"row": 2
+	},
+	{
+		"name": "Automatización y Control de Sistemas Dinámicos y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 7,
+		"row": 3
+	},
+	{
+		"name": "Verificación y Validación de Software",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 7,
+		"row": 4
+	},
+	{
+		"name": "Proyecto Integrador I",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 7,
+		"row": 5
+	},
+	{
+		"name": "Optativa IV FP",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 7,
+		"row": 6
+	},
+	{
+		"name": "Ética, Sociedad y Profesión",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 7,
+		"row": 7
+	},
+	{
+		"name": "Optativa V FP y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 1
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 8,
+		"row": 1
+	},
+	{
+		"name": "Optativa VI FP",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 8,
+		"row": 2
+	},
+	{
+		"name": "Optativa VII FP",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 8,
+		"row": 3
+	},
+	{
+		"name": "Visión Computacional y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 3,
+		"semester": 8,
+		"row": 4
+	},
+	{
+		"name": "Proyecto Integrador II",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 3,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 8,
+		"row": 5
+	},
+	{
+		"name": "Optativa IX FP y Laboratorio",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": 2
+		},
+		"credits": 4,
+		"learningUnitArea": {
+		  "name": "Formación Profesional",
+		  "abbreviation": "FP"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 8,
+		"row": 6
+	},
+	{
+		"name": "Tópicos Selectos para el Desarrollo Académico y Profesional",
+		"hours": {
+		  "ordinary": 3,
+		  "laboratory": null
+		},
+		"credits": 2,
+		"learningUnitArea": {
+		  "name": "Formación General Universitaria",
+		  "abbreviation": "FOGU"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 8,
+		"row": 7
+	},
+	{
+		"name": "Servicio Social",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": 16,
+		"learningUnitArea": {
+		  "name": null,
+		  "abbreviation": null
+		},
+		"spaces": 3,
+		"status": "ongoin",
+		"semester": 9,
+		"row": 1
+	},
+	{
+		"name": "Prácticas Profesionales",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": 6,
+		"learningUnitArea": {
+		  "name": null,
+		  "abbreviation": null
+		},
+		"spaces": 3,
+		"status": 2,
+		"semester": 9,
+		"row": 4
+	},
+	{
+		"name": "Certificación",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 1
+	},
+	{
+		"name": "Investigación",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 2
+	},
+	{
+		"name": "Proyectos especiales",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 3
+	},
+	{
+		"name": "Estancia en la Industria",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 4
+	},
+	{
+		"name": "Movilidad Académica",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 5
+	},
+	{
+		"name": "Unidades de aprendizaje de Libre Elección",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 6
+	},
+	{
+		"name": "Programa de Ingeniero Emprenededor",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 7
+	},
+	{
+		"name": "Programa de Educación Contínua",
+		"hours": {
+		  "ordinary": null,
+		  "laboratory": null
+		},
+		"credits": null,
+		"learningUnitArea": {
+		  "name": "Libre Elección",
+		  "abbreviation": "FE"
+		},
+		"spaces": 1,
+		"status": 0,
+		"semester": 10,
+		"row": 8
+	}
+]
